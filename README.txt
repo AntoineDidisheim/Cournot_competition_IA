@@ -1,3 +1,16 @@
+######################### COURNOT COMPETITION WITH IA ######################
+
+This project explores coneveregence of Q reinforcement learnig on a cournot competition
+
+Given enough round of trainging you can observe that for small economies, IAs converge to the nash solution
+
+Find below a small explanation fo the project
+
+Required: tensorflow, numpy, sklearn, pyplots.
+
+############################################################################
+
+
 This projects proposes simulaiton of a Cournot economy were various numbers of IAs are participaticipating.
 
 Each IA can be chosen to follows one of many à la mode algorithm (from deep net to random forrest)

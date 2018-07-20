@@ -14,4 +14,4 @@ the sim_sim.py calls a lot of simulation to show the convergence of the results.
 
 The cournot file contain a class defining the parameters of the game or economy
 
-The player file contains sub-classes of potential players with different techniques of optimisation. 
+The player file contains sub-classes of potential players with different techniques of optimisation.

@@ -3,7 +3,7 @@ import numpy as np
 import random
 from player import PlayerRndForrest
 from player import PlayerNNet
-nb_player = 10
+nb_player = 2
 # creating the game with some fixed number of player
 game = CournotCompetitionGame(nb_player,type_history="comp_1")
 

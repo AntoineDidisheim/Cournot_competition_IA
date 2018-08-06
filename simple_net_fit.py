@@ -21,6 +21,8 @@ sigma = 0 # you can add some noise to the y here to see the impact on the fit
 train_y = train_y+np.random.normal(scale=sigma,size=(train_y.shape))
 
 
+
+
 #just renaming the variables
 output = train_y
 input = train_x
